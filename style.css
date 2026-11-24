@@ -65,7 +65,7 @@ background-color: navy;
 
 }
 
-#about, #events, #projects, #join {
+.menu a{
 color: white;
 font-size: 20px;
 }
